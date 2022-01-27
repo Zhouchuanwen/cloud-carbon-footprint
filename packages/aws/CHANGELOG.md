@@ -1,5 +1,11 @@
 # @cloud-carbon-footprint/aws
 
+## 0.8.1
+
+### Patch Changes
+
+- d728b378: Restructures AWS Recommendations directory and updates all corresponding files
+
 ## 0.8.0
 
 ### Minor Changes
