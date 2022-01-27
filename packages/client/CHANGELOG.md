@@ -1,5 +1,11 @@
 # @cloud-carbon-footprint/client
 
+## 2.3.2
+
+### Patch Changes
+
+- 0e577b5b: Bumps react-router-dom to latest major version, and updates related code
+
 ## 2.3.1
 
 ### Patch Changes
